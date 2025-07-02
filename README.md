@@ -1,7 +1,5 @@
-# sql-practice-app
-A browser-based SQL practice tool.
-Supports custom realistic AI-generated datasets and real-time query execution.
-Includes an AI coaching layer for constructive query building hints. 
+# ITEM UI
+A browser-based ITEM visualizer tool. 
 
 🚧 In development – Summer 2025 
 
@@ -11,11 +9,11 @@ Commercial use is prohibited. See [LICENSE.txt](./LICENSE.txt) for details.
 
 **Stack:**
 - React (Frontend)
-- sql.js (SQLite in the browser)
 - Claude API (via Cloudflare Workers)
 - Cloudflare Pages (Hosting)
 
 
 ### Contributors
 
-- **Himanshi Sheth** – SQL Playground Dev
+- **Arthur Kudner** – Research Assistant
+- **Charlotte Chaze** - Principal Investigator
